@@ -1,15 +1,15 @@
 # bicyclemodel_mpc
 
-# Author : Dinh Ngoc Duc
-# Created : 2023/04/19
+### Author : Dinh Ngoc Duc
+### Created : 2023/04/19
 
-# Memo 
+### Memo 
 
-# Execute code :
+### Execute code :
 Run "src/mpc_execute.m"
 
 
-# MATLAB : Bicycle model guidance
+## MATLAB : Bicycle model guidance
 
 class Model
 => model
